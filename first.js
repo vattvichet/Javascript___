@@ -1,4 +1,9 @@
-var array = ["Banana", "Apples", "Oranges", "Blueberries"];
-
-console.log("hi")
-console.log("pi")
+var user = {
+    firstname: "vichet",
+    lastname: "vatt",
+    gennder: "male",
+    hobby: "music",
+    shout: function () {
+        console.log("heloooo");
+    },
+};
